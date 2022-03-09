@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hopemk
-- 👀 I’m interested in RESTful API development
-- 🌱 I’m currently learning AWS?AZURE
-- 💞️ I’m looking to collaborate on software development
+- 👋 Hi, I’m @hopemk, fullstack web developer
+- 👀 I develop using Java, JavaScript, Python
+- 🌱 Backend -> Spring Boot, Node.js, Django
+- 💞️ Fronent -> React.js, Vue.js, Javascript, HTML, CSS3
 - 📫 How to reach me hopekugotsi@gmail.com
 
 <!---
